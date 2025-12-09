@@ -1,0 +1,160 @@
+{
+  "page_type": "faq",
+  "product_name": "GlowBoost Vitamin C Serum",
+  "title": "GlowBoost Vitamin C Serum - Frequently Asked Questions",
+  "total_questions": 15,
+  "faqs": [
+    {
+      "question": "What is GlowBoost Vitamin C Serum?",
+      "answer": "GlowBoost Vitamin C Serum is formulated with 10% Vitamin C Vitamin C to deliver visible results.",
+      "category": "informational"
+    },
+    {
+      "question": "What are the key ingredients in GlowBoost Vitamin C Serum?",
+      "answer": "Contains 2 active ingredients at 10% Vitamin C concentration.",
+      "category": "informational"
+    },
+    {
+      "question": "What is Vitamin C and how does it work?",
+      "answer": "GlowBoost Vitamin C Serum is formulated with 10% Vitamin C Vitamin C to deliver visible results.",
+      "category": "informational"
+    },
+    {
+      "question": "What does 10% Vitamin C mean?",
+      "answer": "GlowBoost Vitamin C Serum is a skin care product formulated with quality ingredients.",
+      "category": "informational"
+    },
+    {
+      "question": "What are the main benefits of GlowBoost Vitamin C Serum?",
+      "answer": "This product offers 2 key benefits for your skin.",
+      "category": "informational"
+    },
+    {
+      "question": "How does this product improve skin health?",
+      "answer": "GlowBoost Vitamin C Serum is a skin care product formulated with quality ingredients.",
+      "category": "informational"
+    },
+    {
+      "question": "How do I use GlowBoost Vitamin C Serum?",
+      "answer": "Apply twice daily",
+      "category": "usage"
+    },
+    {
+      "question": "When should I apply this product?",
+      "answer": "Follow the usage instructions provided with the product.",
+      "category": "usage"
+    },
+    {
+      "question": "How often should I use GlowBoost Vitamin C Serum?",
+      "answer": "Apply twice daily",
+      "category": "usage"
+    },
+    {
+      "question": "Can I use this product if I have Oily skin?",
+      "answer": "Follow the usage instructions provided with the product.",
+      "category": "usage"
+    },
+    {
+      "question": "Should I use this in my morning or evening routine?",
+      "answer": "Follow the usage instructions provided with the product.",
+      "category": "usage"
+    },
+    {
+      "question": "What are the side effects of GlowBoost Vitamin C Serum?",
+      "answer": "GlowBoost Vitamin C Serum is formulated with 10% Vitamin C Vitamin C to deliver visible results.",
+      "category": "safety"
+    },
+    {
+      "question": "Is this product safe for sensitive skin?",
+      "answer": "Severity: Low. Always perform a patch test before use.",
+      "category": "safety"
+    },
+    {
+      "question": "Can I use this product during pregnancy?",
+      "answer": "Perform a patch test before use and discontinue if irritation occurs.",
+      "category": "safety"
+    },
+    {
+      "question": "What should I do if I experience irritation?",
+      "answer": "Perform a patch test before use and discontinue if irritation occurs.",
+      "category": "safety"
+    }
+  ],
+  "faqs_by_category": {
+    "informational": [
+      {
+        "question": "What is GlowBoost Vitamin C Serum?",
+        "answer": "GlowBoost Vitamin C Serum is formulated with 10% Vitamin C Vitamin C to deliver visible results."
+      },
+      {
+        "question": "What are the key ingredients in GlowBoost Vitamin C Serum?",
+        "answer": "Contains 2 active ingredients at 10% Vitamin C concentration."
+      },
+      {
+        "question": "What is Vitamin C and how does it work?",
+        "answer": "GlowBoost Vitamin C Serum is formulated with 10% Vitamin C Vitamin C to deliver visible results."
+      },
+      {
+        "question": "What does 10% Vitamin C mean?",
+        "answer": "GlowBoost Vitamin C Serum is a skin care product formulated with quality ingredients."
+      },
+      {
+        "question": "What are the main benefits of GlowBoost Vitamin C Serum?",
+        "answer": "This product offers 2 key benefits for your skin."
+      },
+      {
+        "question": "How does this product improve skin health?",
+        "answer": "GlowBoost Vitamin C Serum is a skin care product formulated with quality ingredients."
+      }
+    ],
+    "usage": [
+      {
+        "question": "How do I use GlowBoost Vitamin C Serum?",
+        "answer": "Apply twice daily"
+      },
+      {
+        "question": "When should I apply this product?",
+        "answer": "Follow the usage instructions provided with the product."
+      },
+      {
+        "question": "How often should I use GlowBoost Vitamin C Serum?",
+        "answer": "Apply twice daily"
+      },
+      {
+        "question": "Can I use this product if I have Oily skin?",
+        "answer": "Follow the usage instructions provided with the product."
+      },
+      {
+        "question": "Should I use this in my morning or evening routine?",
+        "answer": "Follow the usage instructions provided with the product."
+      }
+    ],
+    "safety": [
+      {
+        "question": "What are the side effects of GlowBoost Vitamin C Serum?",
+        "answer": "GlowBoost Vitamin C Serum is formulated with 10% Vitamin C Vitamin C to deliver visible results."
+      },
+      {
+        "question": "Is this product safe for sensitive skin?",
+        "answer": "Severity: Low. Always perform a patch test before use."
+      },
+      {
+        "question": "Can I use this product during pregnancy?",
+        "answer": "Perform a patch test before use and discontinue if irritation occurs."
+      },
+      {
+        "question": "What should I do if I experience irritation?",
+        "answer": "Perform a patch test before use and discontinue if irritation occurs."
+      }
+    ]
+  },
+  "metadata": {
+    "generated_at": "2025-12-09T12:09:31.807971",
+    "version": "1.0",
+    "categories": [
+      "informational",
+      "usage",
+      "safety"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "template_id": "comparison",
+    "template_type": "product_comparison",
+    "description": "Template for product comparison page generation",
+    "sections": [
+        {
+            "section_id": "header",
+            "section_type": "comparison_header",
+            "required_data": [
+                "product_a",
+                "product_b"
+            ]
+        },
+        {
+            "section_id": "comparison_table",
+            "section_type": "comparison_matrix",
+            "required_data": [
+                "comparison"
+            ],
+            "logic_block": "comparison_block"
+        },
+        {
+            "section_id": "summary",
+            "section_type": "summary",
+            "required_data": [
+                "summary"
+            ]
+        }
+    ],
+    "comparison_dimensions": [
+        "concentration",
+        "ingredients",
+        "benefits",
+        "pricing"
+    ]
+}

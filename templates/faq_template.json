@@ -1,0 +1,30 @@
+{
+    "template_id": "faq",
+    "template_type": "faq_page",
+    "description": "Template for FAQ page generation",
+    "sections": [
+        {
+            "section_id": "header",
+            "section_type": "header",
+            "required_data": [
+                "product_name"
+            ],
+            "format": "text"
+        },
+        {
+            "section_id": "faqs",
+            "section_type": "faq_list",
+            "required_data": [
+                "questions",
+                "answers"
+            ],
+            "format": "qa_pairs",
+            "min_questions": 5
+        }
+    ],
+    "structure": {
+        "page_title": "{{product_name}} - Frequently Asked Questions",
+        "introduction": "Common questions about {{product_name}}",
+        "faqs": []
+    }
+}

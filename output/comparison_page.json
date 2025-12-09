@@ -1,0 +1,69 @@
+{
+  "page_type": "comparison",
+  "title": "GlowBoost Vitamin C Serum vs GlowBoost Premium",
+  "products": {
+    "product_a": {
+      "name": "GlowBoost Vitamin C Serum",
+      "id": "glowboost_vitamin_c_serum",
+      "concentration": "10% Vitamin C",
+      "price": "₹699.00"
+    },
+    "product_b": {
+      "name": "GlowBoost Premium",
+      "id": "glowboost_premium",
+      "concentration": "13.0%",
+      "price": "₹616.07"
+    }
+  },
+  "comparison": {
+    "concentration": {
+      "product_a": "10% Vitamin C",
+      "product_b": "13.0%",
+      "analysis": "Product B has higher concentration (+3.0%)"
+    },
+    "ingredients": {
+      "product_a": [
+        "Vitamin C",
+        "Hyaluronic Acid"
+      ],
+      "product_b": [
+        "Vitamin C",
+        "Hyaluronic Acid",
+        "Peptides"
+      ],
+      "common_ingredients": [
+        "vitamin c",
+        "hyaluronic acid"
+      ],
+      "unique_to_a": [],
+      "unique_to_b": [
+        "peptides"
+      ]
+    },
+    "benefits": {
+      "product_a": [
+        "Brightening",
+        "Fades dark spots"
+      ],
+      "product_b": [
+        "Brightening",
+        "Fades dark spots",
+        "Long-lasting results"
+      ],
+      "analysis": "Product B offers more benefits (3 vs 2)"
+    },
+    "pricing": {
+      "product_a": "₹699.00",
+      "product_b": "₹616.07",
+      "price_difference": "Product B is ₹82.93 cheaper",
+      "value_assessment": "Product B is premium priced"
+    }
+  },
+  "summary": "GlowBoost Vitamin C Serum vs GlowBoost Premium: Product B has higher concentration (+3.0%). Product B is ₹82.93 cheaper. Product B offers more benefits (3 vs 2).",
+  "recommendation": "Product B recommended for those seeking premium formulation",
+  "metadata": {
+    "generated_at": "2025-12-09T12:09:14.290767",
+    "version": "1.0",
+    "comparison_type": "side_by_side"
+  }
+}

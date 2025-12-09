@@ -1,0 +1,64 @@
+{
+    "template_id": "product_page",
+    "template_type": "product_description",
+    "description": "Template for product description page generation",
+    "sections": [
+        {
+            "section_id": "overview",
+            "section_type": "product_overview",
+            "required_data": [
+                "name",
+                "concentration"
+            ],
+            "logic_block": "overview_block"
+        },
+        {
+            "section_id": "skin_type",
+            "section_type": "skin_type_info",
+            "required_data": [
+                "skin_type"
+            ],
+            "logic_block": "skin_type_block"
+        },
+        {
+            "section_id": "ingredients",
+            "section_type": "ingredients_list",
+            "required_data": [
+                "ingredients"
+            ],
+            "logic_block": "ingredients_block"
+        },
+        {
+            "section_id": "benefits",
+            "section_type": "benefits_list",
+            "required_data": [
+                "benefits"
+            ],
+            "logic_block": "benefits_block"
+        },
+        {
+            "section_id": "usage",
+            "section_type": "usage_guide",
+            "required_data": [
+                "usage"
+            ],
+            "logic_block": "usage_block"
+        },
+        {
+            "section_id": "safety",
+            "section_type": "safety_info",
+            "required_data": [
+                "safety"
+            ],
+            "logic_block": "safety_block"
+        },
+        {
+            "section_id": "pricing",
+            "section_type": "pricing_info",
+            "required_data": [
+                "pricing"
+            ],
+            "logic_block": "pricing_block"
+        }
+    ]
+}

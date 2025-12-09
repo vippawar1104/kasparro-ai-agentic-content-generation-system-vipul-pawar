@@ -1,0 +1,9 @@
+# Multi-Agent Product Content Generation System
+# Pure Python implementation - no external dependencies required
+
+# All functionality uses Python standard library only
+# No external packages needed for core functionality
+
+# Optional (for development/testing):
+# pytest==7.4.3
+# black==23.12.0
